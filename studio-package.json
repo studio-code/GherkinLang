@@ -1,0 +1,13 @@
+
+{
+	"name": "gherkinLang",
+	"title": "Gherkin Language",
+	"author": "Arthur Guiot",
+	"description": "Gherkin is the language that Cucumber uses to define test cases. It is designed to be non-technical and human readable, and collectively describes use cases relating to a software system.",
+	"image": "./logo.png",
+	"version": "1.0.0",
+	"git": "https://github.com/studio-code/GherkinLang",
+  	"type": "mode",
+	"main": "index.js",
+	"activation": ".*\\.feature$"
+}
